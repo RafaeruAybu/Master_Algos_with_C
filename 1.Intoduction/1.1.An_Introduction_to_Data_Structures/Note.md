@@ -1,0 +1,1 @@
+In computing, some of the most common organizations are linked lists, stacks, queues, sets, hash tables, trees, heaps, priority queues, and graphs, all of which are discussed in this book. Three reasons for using data structures are efficiency, abstraction, and reusabiliry.

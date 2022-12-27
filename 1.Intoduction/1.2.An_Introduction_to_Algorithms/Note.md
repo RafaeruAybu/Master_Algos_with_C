@@ -1,0 +1,1 @@
+As with data structures, three reasons for using formal algorithms are efficieny, abstraction, and reusability.

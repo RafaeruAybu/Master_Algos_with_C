@@ -1,0 +1,1 @@
+Algorithms are well-defined procedures for solving problems.
