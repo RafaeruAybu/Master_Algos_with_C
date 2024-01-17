@@ -1,4 +1,4 @@
-# Master_Algos_with_C
+# Master_Algos_with_C [WIP]
 This repo includes lessons given in this book - Mastering Algorithms with C, Kyle Loudon.
 
 The purpose of this repository is to master algorithms in C programming language.
